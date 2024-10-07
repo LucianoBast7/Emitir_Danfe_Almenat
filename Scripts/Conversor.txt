@@ -1,0 +1,2 @@
+
+python -m PyInstaller --onefile "L:\COMMON\FC\Luciano Bastos\VS Code\Automações\emitir_danfe.py"
