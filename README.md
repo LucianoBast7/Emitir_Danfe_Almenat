@@ -1,6 +1,6 @@
 # Emissor de DANFE
 
-Este projeto utiliza o script `emitir_danfe.py` e/ou o arquivo executável `emitir_danfe.exe` para automatizar o processo de emissão de DANFEs (Documento Auxiliar da Nota Fiscal Eletrônica), integrando a inserção de chaves diretamente em um sistema via interface gráfica e automação de navegador.
+Este projeto utiliza o script `emitir_danfe.py` e/ou o arquivo executável `emitir_danfe.exe` para automatizar o processo de emissão de DANFEs (Documento Auxiliar da Nota Fiscal Eletrônica) do hotel `Almenat Tapestry Collection by Hilton`, integrando a inserção de chaves diretamente em um sistema via interface gráfica e automação de navegador.
 
 ## Funcionalidades
 
